@@ -1,28 +1,16 @@
-## Всем привет!
+## Hello, world!
 
-### ![7766419 (1)](https://github.com/EAnchugov/EAnchugov/assets/95550175/bd2db194-180b-42f7-a13e-e10724964ebc) Немного обо мне
+### Немного обо мне
 
 Меня зовут Галина Лобачёва. Я Java-разработчик.
+Закончила Финансовый Университет при Правительстве РФ и мечтаю работать в финтехе.
 
 Меня вдохновляет создание чего-то нового, используя ограниченный набор команд и структур данных.
 
 В моих репозиториях вы можете найти проекты, которые я создала в процессе обучения на курсе Java-разработчик от Яндекс Практикум. 
+В скором времени к ним добавятся и мои личные пет-проекты.
 
-<!--
-**EAnchugov/EAnchugov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 💻 My technical skills
+### Mой стек технологий
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
