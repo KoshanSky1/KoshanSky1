@@ -1,5 +1,5 @@
 ## Hello, world!
-![GitHub Views](https://komarev.com/ghpvc/?username=<KKoshanSky1>)
+![GitHub Views](https://komarev.com/ghpvc/?username=<KoshanSky1>)
 
 ### &#127875; Немного обо мне:
 
