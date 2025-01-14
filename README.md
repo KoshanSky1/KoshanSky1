@@ -8,8 +8,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/Umnitsa78) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:g-zaharova@bk.ru)
 
-Закончила Финансовый Университет при Правительстве РФ и мечтаю работать в финтехе.
-
 Меня вдохновляет создание чего-то нового при использовании ограниченного набора команд и структур данных.
 
 В моих репозиториях вы можете найти проекты, которые я создала в процессе обучения на курсе Java-разработчик от Яндекс Практикум. 
