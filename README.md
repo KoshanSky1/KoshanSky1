@@ -2,7 +2,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=KoshanSky1&color=ce1126)
 
 
-### &#127875; Немного обо мне:
+### :leopard: Немного обо мне:
 
 Меня зовут Галина Лобачёва. Я Java-разработчик.
 
