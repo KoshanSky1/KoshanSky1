@@ -1,5 +1,4 @@
 ## Hello, world!
-![GitHub Views](https://komarev.com/ghpvc/?username=KoshanSky1&color=ce1126)
 
 
 ### 🐾 Немного обо мне:
